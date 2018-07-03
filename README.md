@@ -7,6 +7,9 @@ This project contains the Angular Component for use with ag-Grid
 
 Version 18.0.0 will be the last version in this repository. All future versions will be in the repository above.
 
+---
+
+
 
 
 **Note:** *ag-grid-ng2* is now **deprecated**. Please *ag-grid-angular* going forward.
